@@ -1,6 +1,6 @@
 package com.lianxi.www.day01.四类八种;
 
-public class Lianxi01 {
+public class VariableDemo01 {
 	public static void main(String[] args) {
 		/*
 		 * 变量的定义格式：
